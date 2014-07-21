@@ -1,3 +1,33 @@
 body {
   /* rules go here */
 }
+
+.logo{
+
+	font-family: 'Philosopher';
+	font-size: 50px; 
+	text-align: center; 
+	margin-top: 200px; 
+}
+.search{
+
+	 margin-top: 50px; 
+	 width: 500px; 
+	 height: 20px; 
+}
+
+.button1{
+
+	 width: 150px;
+	 height:25px;
+	 margin-top: 10px; 
+	 margin-right: 30px;
+}
+
+.button2{
+
+	 width: 150px;
+	 height:25px;
+	 margin-top: 10px; 
+	 margin-left: 30px;
+}
